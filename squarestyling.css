@@ -1,0 +1,460 @@
+*{
+	margin: 0px;
+}
+
+body{
+	width: 100%;
+}
+.sticky{
+	position: sticky;
+}
+#generic{
+	font-size: 47px;
+	color: #d0887b;
+	font-family: fantasy;
+	text-shadow: 3px 3px 3px black;
+
+}
+#linking{
+	font-size: 28px;
+	color: grey;
+	font-family: sans-serif;
+	margin-left: 20px;
+}
+#linking:hover{
+      color: black;
+}
+#signfree{
+	font-family: fantasy;
+	font-size: 33px;
+    color: #008074e0;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 2px black; 
+}
+#signfree:hover{
+	color: black;
+
+}
+#heading2{
+	text-align: center;
+	padding: 10px;
+
+	color: #1f36d6bf;
+	background: rgb(204 201 214 / 92%);
+	font-size: 38px;
+	bottom: 0;
+	width: 100%;
+
+
+}
+
+.heading3{
+	text-align: center;
+	padding: 8px;
+	font-size: 40px;
+	font-family: serif,sans-serif,arial;
+	margin-top: 0;
+	
+}
+
+.squaress::before{
+	content: "";
+	/*background: url("https://st4.depositphotos.com/4304307/20304/i/1600/depositphotos_203049960-stock-photo-office-desktop-modern-laptop-blue.jpg")	 no-repeat center center/cover;*/
+	background: url("https://images.ctfassets.net/2d5q1td6cyxq/01kh8gyt0HLncAqclshGr6/e4effa6fa45663c4d711e7be9e66667b/XL_Hero_1680.jpg?w=1679&h=690&fm=webp&q=85&fit=scale") no-repeat center center/cover;
+	position: absolute;
+	width: 100%;
+     height: 587px;
+     margin-top: 0px;
+	z-index: -1;
+	opacity: 0.8;
+	left: 0;
+
+}
+.squaress{
+	height: 590px;
+	border: 2px solid white;
+}
+.square{
+	margin: 142px 0px 0px 133px;
+
+}
+#para{
+	font-size: 20px;
+	font-style: italic;
+}
+#heading4{
+    font-size: 48px;
+    font-style: bold;
+}
+.btn{
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 2px black;
+	cursor: pointer;
+	background-color: #0ca1d4db;
+	color: white;
+
+}
+.btn a{
+	color: white;
+}
+.pickup{
+	justify-content: center;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 10px;
+	padding: 30px;
+}
+.local{
+	color: tomato;
+}
+#thirdpart{
+	margin-top: 10px 15px 0px 20px;
+	
+
+	height: 600px;
+	background-color: #cecbcbcc;
+}
+#solution{
+	color: tomato; 
+}
+#third{
+	margin: 20px 30px 10px 30px;
+}
+#columns{
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	padding:  13px 8px 0px 10px;
+	margin: 7px;
+}
+#image1{
+	justify-content: center;
+	margin-top:100px;
+	margin-left: 170px;
+	width: 1000px;
+	height: 510px;
+
+}
+.feature{
+	font-size: 27px;
+	text-shadow: 2px 2px black;
+	color: tomato;
+}
+
+.fourth{
+	margin: 260px 350px 150px 350px;
+	justify-content: center;
+	text-align: center;
+	padding: 35px;
+	background-color: #71495045;
+	border-radius: 12px;
+}
+#scrolling{
+	margin: 20px 30px 0px 50px;
+}
+#scroll{
+	margin: 20px 30px 0px 30px;
+}
+#scrollss{
+	margin: 20px 30px 0px 30px;
+}
+.myself{
+   width: 300px;
+   height: 430px;
+   border: 2px solid #ead1d1;
+   margin-right: 51px;
+}
+#image4{
+	width: 330px;
+	height: 260px;
+}
+#paragraph{
+	padding: 0px 16px 0px 0px;
+	margin: 0px 14px 0px 0px;
+	font-size: 17px;
+}
+.fifth{
+	justify-content: center;
+	text-align: center;
+	margin: 50px 185px 0px 80px;
+	padding: 40px;
+
+}
+#parar{
+	font-size: 16px;
+	padding: 0px 20px;
+	margin: 0px 30px;
+}
+
+.sixth1{
+	margin: 25px 100px;
+	padding: 22px;
+}
+#line{
+	font-size: 17px;
+	margin: 5px;
+	padding: 4px;
+	font-family: arial,serif;
+}
+#buttons{
+	font-size: 23px;
+	cursor: pointer;
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px black;
+}
+#buttons a{
+	color: white;
+}
+.first,.second,.third{
+	border: 2px solid #ead1d1;
+	font-size:17px;
+	padding: 4px;
+}
+#retail{
+	margin-left: 50px;
+	margin-top: 50px;
+	
+}
+#retail2,#restaurant{
+    margin-top: 100px;
+
+}
+#restaurant{
+	margin-left: 100px;
+}
+#retail2,#restaurant h3{
+	font-size: 35px;
+}
+#retail2,#restaurant p{
+	font-size: 20px;
+}
+#rest{
+	/*width:160px;*/
+	margin-top: 60px;
+}
+#imagerest{
+	width:560px;
+}
+.third{
+	height: 100px;
+}
+#buttons{
+	margin: 20px 40px;
+}
+.contact:before{
+	content: "";
+	background: url("image.6.jpg") no-repeat center center/cover;
+	width: 100%;
+	height: 500px;
+	position: absolute;
+	z-index: -1;
+	opacity: 1;
+}
+.contact{
+
+	height: 500px;
+}
+.contactus{
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	padding-top: 50px;
+	margin: 10px 100px 0px 100px;
+}
+.contactus h3{
+	font-size: 40px;
+	color: white;
+
+}
+.contactus h6{
+	font-size: 25px;
+	color: white;
+}
+.contactus p{
+	font-size: 17px;
+	color: white;
+}
+.contactus p a{
+	font-size: 30px;
+	list-style: none;
+	color: white;
+	box-shadow: 2px 3px 2px 2px black;
+}
+.contactus p a title{
+	font-size: 40px;
+}
+.sixthpart::before{
+	content: "";
+	background: url("https://c8.alamy.com/comp/M0WNJ7/vector-illustration-of-hexagonal-cells-background-digital-futuristic-M0WNJ7.jpg") no-repeat center center/cover;
+
+    position: absolute;
+    width: 100%;
+    z-index: -2;
+    right: 0;
+    opacity: 0.2;
+    height: 700px;
+
+}
+/*.sixthpart{
+	border: 2px solid red;
+}*/
+.lasting{
+	background-color: black;
+	height: 40rem;
+	top: 0px;
+	position: relative;
+	/*border: 2px solid red;*/
+}
+#english{
+	color: white;
+	margin: 0px 70px 14px 150px;
+	padding: 24px 24px 20px 24px;
+	font-size: 40px;
+
+}
+
+#last{
+	float: right;
+	display: inline-block;
+	margin-top: 20px;
+	 
+}
+#last li{
+	text-decoration: none;
+	font-size: 24px;
+	list-style: none;
+}
+#last li a{
+	color: white;
+	float: right;
+	margin-right: 100px;
+	margin: 
+	list-style: none;
+	text-decoration: none;
+}
+
+.locations ul{
+	/*display: flex;*/
+
+}
+.locations h2{
+	color: white;
+	font-size: 60px;
+	margin-left: 100px;
+}
+.locations li{
+	list-style: none;
+	float: left;
+
+}
+.locations li a{
+	font-size: 28px;
+	margin: 7px;
+	padding: 8px;
+	color: grey;
+	font-family: ui-rounded;
+}
+.locations li a:hover{
+	color: #4d9eabb0;
+}
+@media screen and (max-width: 1173px){
+	body{
+		width: 100%;
+		margin-right: 0px;
+		overflow-x: hidden;
+
+
+    }
+    #image1{
+    	width: 100%;
+    	margin:auto;
+    }
+    .fourth{
+    	margin: auto;
+    	margin-top: 20rem;
+    }
+    .myself{
+    	height: auto;
+    }  
+
+}
+@media screen and (max-width: 520px){
+	html,body{
+		overflow-x: hidden;
+		width: 100%;
+
+	}
+	#heading2{
+		width: 100%;
+		font-size: 1rem;
+		margin-left: 0px;
+	}
+	#heading4{
+		font-size: 2rem;
+	}
+	#image1{
+		width:400px;
+		height: 200px;
+		margin-left: 0px;
+	}
+	.fourth{
+		margin:318px auto auto auto;
+	}
+    .myself{
+	height: auto;
+	}
+	#retail2 p {
+    font-size: 20px;
+}
+  #image4{
+  	height: auto;
+  	width: 272px;
+  }
+  #parar{
+  	font-size:17px;
+  	width: 200px;
+  	margin-left: -40px;
+  }
+  .h2,h2{
+  	width:200px;
+  	margin-left:-40px; 
+  }
+  #thirdpart {
+    height: 48rem;
+}
+#retail{
+	margin-left: -70px;
+}
+#imagerest{
+	margin-left: -112px;
+}
+#retailing{
+	margin-left: 10px;
+}
+#restaurant {
+    margin-left: 29px;
+}
+.sixthpart{
+	height: 81rem;
+	margin-left: -87px;
+
+}
+.sixthpart::before{
+	height: 1460px;
+}
+#buttons {
+    font-size: 18px;
+    width: 202px;
+    padding: 4px;
+.sixth1{
+	margin: 0px 100px;
+}
+.locations ul{
+	display: inline-block;
+}
+}
